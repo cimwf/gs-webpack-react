@@ -1,0 +1,12 @@
+{
+  "name": "gs-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cimwf/gs-react.git",
+  "author": "guanshan <1608198396@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "redux": "^4.2.1"
+  }
+}
